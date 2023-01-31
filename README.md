@@ -1,6 +1,6 @@
 # CelebrityFaceRecognition
 
-Our code consists of 3 .ipynb files:
+The code consists of 3 .ipynb files:
 Data_Wrangling.ipynb
 Classification.ipynb
 Face_Detection.ipynb
